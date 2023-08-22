@@ -1,0 +1,2 @@
+This learning path encompasses the skills every analyst needs, from performing ad hoc analysis for data exploration, to producing well-designed interactive dashboards that present data accurately. Learn to work with complex data sources, use advanced calculations to customize data, leverage advanced features--such as parameters, sets, filters, and forecasting--to build a range of charts and to analyze various types of data, and share actionable data insights within your organization. 
+
